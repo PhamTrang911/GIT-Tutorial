@@ -1,2 +1,2 @@
 # GIT-Tutorial
-My repository tutorial
+GIT Tutorial about using Commands and Flow
